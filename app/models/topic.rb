@@ -1,3 +1,4 @@
+=begin
 class ::Topic
   module ForDigest
     def for_digest(user, since, opts=nil)
@@ -16,3 +17,4 @@ class ::Topic
     query
   }
 end
+=end
